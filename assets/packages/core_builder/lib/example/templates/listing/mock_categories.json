@@ -1,0 +1,528 @@
+[
+    {
+        "id": 64,
+        "count": 2,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/apartments/",
+        "name": "Apartments",
+        "slug": "apartments",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/interior-view-of-contemporary-lounge-with-staircase-small.jpg",
+        "_cover": "232",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/64"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=64"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "count": 4,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/cafe/",
+        "name": "Cafe",
+        "slug": "cafe",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/working-in-a-cafe-small.jpg",
+        "_cover": "323",
+        "listeo_taxonomy_multicheck": [
+            "air-conditioning",
+            "alcohol",
+            "cardio-machines",
+            "dumbbells",
+            "elevator-in-building",
+            "free-parking",
+            "friendly-workspace",
+            "instant-book",
+            "personal-training"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/19"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=19"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "count": 3,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/eat-drink/",
+        "name": "Eat &amp; Drink",
+        "slug": "eat-drink",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2021/04/restaurant-in-valkenswaard-small.jpg",
+        "_cover": "738",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/63"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=63"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 66,
+        "count": 1,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/events/",
+        "name": "Events",
+        "slug": "events",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2020/07/foody-upload-api-foody-mobile-58-jpg-180907112109-small.jpg",
+        "_cover": "448",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/66"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=66"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "count": 1,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/fitness/",
+        "name": "Fitness",
+        "slug": "fitness",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2021/04/start-exercising-again-after-a-long-break-tile-small.jpg",
+        "_cover": "739",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/68"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=68"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "count": 2,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/french/",
+        "name": "French",
+        "slug": "french",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/french-macaroons-with-tangerine-small.jpg",
+        "_cover": "325",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=37"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "count": 3,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/japanese/",
+        "name": "Japanese",
+        "slug": "japanese",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/tourist-ski-resorts-in-french-alps-at-early-autumn-small.jpg",
+        "_cover": "324",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/33"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=33"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "count": 1,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/other/",
+        "name": "Other",
+        "slug": "other",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/travel6-1-small.jpg",
+        "_cover": "252",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/67"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=67"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "count": 3,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/seafood/",
+        "name": "Seafood",
+        "slug": "seafood",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/fresh-seafood-with-herbs-and-lemon-on-ice-small.jpg",
+        "_cover": "326",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/29"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=29"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 65,
+        "count": 3,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/services/",
+        "name": "Services",
+        "slug": "services",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/12/become-an-owner-1-small.png",
+        "_cover": "377",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/65"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=65"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "count": 2,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/steakhouse/",
+        "name": "Steakhouse",
+        "slug": "steakhouse",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/steakhouse-beef-meat-selection-small.jpg",
+        "_cover": "327",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/35"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=35"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "count": 1,
+        "description": "",
+        "link": "https://listeo.inspireui.com/listing-category/vietnamese/",
+        "name": "Vietnamese",
+        "slug": "vietnamese",
+        "taxonomy": "listing_category",
+        "parent": 0,
+        "meta": [],
+        "term_image": "https://listeo.inspireui.com/wp-content/uploads/2019/11/vietnamese-boats-at-river-ninh-binh-vietnam-small.jpg",
+        "_cover": "328",
+        "listeo_taxonomy_multicheck": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category/34"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing_category"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/taxonomies/listing_category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "https://listeo.inspireui.com/wp-json/wp/v2/listing?listing_category=34"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

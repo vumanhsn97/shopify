@@ -1,0 +1,93 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "name": "New Arrivals",
+      "layout": "threeColumn"
+    },
+    {
+      "name": "Top Trends",
+      "layout": "twoColumn"
+    },
+    {
+      "name": "Top Sellers",
+      "layout": "threeColumn"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "TabBarConfig": {
+      "showCurvedBottomBar": true
+    },
+    "ProductDetail": "simpleType",
+    "ShowChat": true,
+    "FontHeader": "ABeeZee",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "key": "rt23pebmpa",
+      "layout": "home",
+      "icon": "rectangle_grid_2x2_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 100
+    },
+    {
+      "key": "5wyi6aemsc",
+      "layout": "category",
+      "icon": "flame_fill",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 200,
+      "categoryLayout": "card",
+      "categories": null,
+      "images": null
+    },
+    {
+      "key": "8y18a5paef",
+      "layout": "cart",
+      "icon": "bell_solid",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 400
+    },
+    {
+      "key": "gqxne4bctb",
+      "layout": "profile",
+      "icon": "bookmark_solid",
+      "fontFamily": "CupertinoIcons",
+      "label": null,
+      "pos": 500,
+      "settings": null,
+      "background": null
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  }
+}

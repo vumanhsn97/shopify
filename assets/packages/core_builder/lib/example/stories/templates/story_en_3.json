@@ -1,0 +1,84 @@
+{
+    "layout": 3,
+    "urlImage": "https://images.unsplash.com/photo-1590698933947-a202b069a861?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+    "contents": [
+        {
+            "title": "Shop Custom Made",
+            "paddingContent": {
+                "top": 0.3,
+                "bottom": null,
+                "left": null,
+                "right": null
+            },
+            "link": {
+                "url": "",
+                "type": "category"
+            },
+            "typography": {
+                "font": "Lobster",
+                "fontSize": 40.0,
+                "fontStyle": "bold",
+                "align": "center",
+                "transform": "full"
+            },
+            "animation": {
+                "type": "fadeIn",
+                "milliseconds": 300,
+                "delay": 0
+            },
+            "spacing": {
+                "padding": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                },
+                "margin": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                }
+            }
+        },
+        {
+            "title": "Personalized shopping is our newest obsession.",
+            "paddingContent": {
+                "top": 0.2,
+                "bottom": null,
+                "left": null,
+                "right": null
+            },
+            "link": {
+                "url": "",
+                "type": "category"
+            },
+            "typography": {
+                "font": "Roboto",
+                "fontSize": 15.0,
+                "fontStyle": "normal",
+                "align": "center",
+                "transform": "full"
+            },
+            "animation": {
+                "type": "fadeIn",
+                "milliseconds": 300,
+                "delay": 0
+            },
+            "spacing": {
+                "padding": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                },
+                "margin": {
+                    "left": 0.0,
+                    "right": 0.0,
+                    "top": 0.0,
+                    "bottom": 0.0
+                }
+            }
+        }
+    ]
+}

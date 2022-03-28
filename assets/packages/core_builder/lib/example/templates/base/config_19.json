@@ -1,0 +1,216 @@
+{
+  "HorizonLayout": [
+    {
+      "hideLogo": true,
+      "layout": "logo"
+    },
+    {
+      "fontSize": 26,
+      "rotate": [
+        "WooCommerce",
+        "Magento",
+        "Opencart"
+      ],
+      "marginRight": 18,
+      "layout": "header_text",
+      "marginTop": 0,
+      "marginBottom": 0,
+      "fontWeight": "700",
+      "textColor": null,
+      "height": 50,
+      "textOpacity": 1,
+      "showSearch": true,
+      "type": "typer",
+      "hideHeader": false,
+      "marginLeft": 27
+    },
+    {
+      "marginRight": 30,
+      "imageBorderWidth": null,
+      "paddingX": 4,
+      "showShortDescription": true,
+      "marginTop": 10,
+      "spacing": 8,
+      "columns": 3,
+      "wrap": true,
+      "marginBottom": 10,
+      "imageBorderColor": null,
+      "size": 0.8,
+      "hideTitle": false,
+      "radius": 10,
+      "items": [
+        {
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "showDescription": false,
+          "keepDefaultTitle": true,
+          "originalColor": false,
+          "title": "Music",
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/53560c2f58ee8847ecb8bbad4582a9e0/i_package.png",
+          "category": null
+        },
+        {
+          "title": "Clothing",
+          "showDescription": false,
+          "colors": [
+            "#2288E5",
+            "#2288E5"
+          ],
+          "keepDefaultTitle": true,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/a804eb95a5c378af5f7d1b99e6227a0f/i_shopping.png",
+          "originalColor": false,
+          "category": null
+        },
+        {
+          "category": null,
+          "title": "Posters",
+          "showDescription": false,
+          "colors": [
+            "#0090D0",
+            "#0090D0"
+          ],
+          "keepDefaultTitle": true,
+          "originalColor": false,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/79ed85962420d3bfab1c00dcb8c91c54/i_snow.png"
+        },
+        {
+          "category": null,
+          "title": "Music",
+          "colors": [
+            "#0092D6",
+            "#0092D6"
+          ],
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/897b5ad5dd22b283cabfc60ccdbd48c0/i_truck.png",
+          "showDescription": false,
+          "keepDefaultTitle": true,
+          "originalColor": false
+        },
+        {
+          "colors": [
+            "#3B2E6B",
+            "#3B2E6B"
+          ],
+          "title": "Clothing",
+          "category": null,
+          "showDescription": false,
+          "originalColor": false,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/73c8510f48562f3ba8a90ca5cab3e5ed/i-air.png",
+          "keepDefaultTitle": true
+        },
+        {
+          "originalColor": false,
+          "showDescription": false,
+          "category": null,
+          "colors": [
+            "#0067B8",
+            "#0067B8"
+          ],
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/b6cf667f1f7c036dc82a111c16f4ce7f/i_instagram.png",
+          "title": "Poster",
+          "keepDefaultTitle": true
+        }
+      ],
+      "noBackground": false,
+      "labelFontSize": 14,
+      "paddingY": 8,
+      "marginY": 0,
+      "type": "icon",
+      "marginLeft": 30,
+      "imageSpacing": 8,
+      "line": false,
+      "marginX": 0,
+      "layout": "category",
+      "imageBorderStyle": "solid"
+    },
+    {
+      "isSnapping": true,
+      "name": "Man Collections",
+      "layout": "threeColumn",
+      "image": ""
+    }
+  ],
+  "Setting": {
+    "TabBarConfig": null,
+    "MainColor": "#3FC1BE",
+    "FontFamily": "ABeeZee",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "ProductDetail": "simpleType",
+    "ShowChat": true,
+    "FontHeader": "ABeeZee"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "pos": 200,
+      "icon": "rectangle_grid_1x2",
+      "categoryLayout": "card",
+      "fontFamily": "CupertinoIcons",
+      "layout": "category"
+    },
+    {
+      "size": 24,
+      "fontFamily": "CupertinoIcons",
+      "layout": "search",
+      "pos": 300,
+      "icon": "search"
+    },
+    {
+      "layout": "cart",
+      "icon": "bag",
+      "pos": 400,
+      "categoryLayout": "cart",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "icon": "person",
+      "pos": 500,
+      "fontFamily": "CupertinoIcons"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "key": "xsg9xrl9kd",
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "subDrawerItem": {
+      "web-13hiqqweo9": {
+        "iconFontFamily": "CupertinoIcons",
+        "webViewMode": true,
+        "requiredLogin": false,
+        "title": "Careers",
+        "icon": "briefcase",
+        "webUrl": "https://yezmart.ph/jobs/"
+      }
+    }
+  },
+  "AppBar": {},
+  "Background": {
+    "type": "wave",
+    "height": 0.5
+  }
+}
