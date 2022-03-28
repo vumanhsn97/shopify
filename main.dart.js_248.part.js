@@ -1611,7 +1611,7 @@ var $async$X0=B.n(function(e,f){if(e===1)return B.o(f,w)
 while(true)switch(x){case 0:n=B
 m=C.r
 x=3
-return B.l($.FX().zH("packages/design_builder/lib/example/"+u.a.e+"/config_"+d+".json"),$async$X0)
+return B.l($.FX().zI("packages/design_builder/lib/example/"+u.a.e+"/config_"+d+".json"),$async$X0)
 case 3:o=n.b8(m.ad(0,f,null),y.N,y.z)
 if(u.a.f){t=y.L.a(o.h(0,"items"))
 if(t!=null&&J.aL(t)){s=[]
@@ -3846,4 +3846,4 @@ D.dLw=new B.b3("drawer-menu-image",y.O)
 D.dLH=new B.b3("sidebar-background",y.O)})();(function staticFields(){$.bE3=function(){var x="unSupportPlatform",w=y.N,v=B.a9("aj"),u=y.s
 return B.f(["home",B.f(["icon",C.tW,"name","Home"],w,v),"categories",B.f(["icon",C.tQ,"name","Categories"],w,v),"cart",B.f(["icon",C.pb,"name","Cart",x,B.b(["wordpress","listeo","listingpro","mylisting"],u)],w,v),"profile",B.f(["icon",C.mp,"name","Settings"],w,v),"web",B.f(["icon",C.BK,"name","WebView"],w,v),"blog",B.f(["icon",C.C7,"name","Blog",x,B.b(["wordpress","presta"],u)],w,v),"login",B.f(["icon",C.Bx,"name","Login & Logout"],w,v),"category",B.f(["icon",C.Cg,"name","Dropdown Category"],w,v)],w,y.z)}()})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"fYn","e3_",()=>new A.cqe())})()}
-$__dart_deferred_initializers__["1ocPrFjWqju/molqIpyanDcKvE0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["Tbjd9ufcaI6eXGNgNxBEFQ5aMDw="] = $__dart_deferred_initializers__.current
